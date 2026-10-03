@@ -1,0 +1,15 @@
+{
+  "version": "2.1.0",
+  "minimum_version": "1.0.3",
+  "release_date": "2026-10-03",
+  "title": "FS25 Mod Yöneticisi 2.1.0",
+  "download_url": "",
+  "sha256": "",
+  "size": 0,
+  "mandatory": false,
+  "notes": [
+    "Yeni güncelleme sistemi hazırlandı.",
+    "Güncelleme motoru geliştiriliyor.",
+    "Performans ve kararlılık iyileştirmeleri yapıldı."
+  ]
+}
