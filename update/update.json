@@ -3,13 +3,15 @@
   "minimum_version": "1.0.3",
   "release_date": "2026-10-03",
   "title": "FS25 Mod Yöneticisi 2.1.0",
-  "download_url": "",
-  "sha256": "",
-  "size": 0,
+  "download_url": "https://github.com/fs25modyonetici/FS25-MOD-YONETICI/releases/download/v2.1.0/Setup.exe",
+  "sha256": "e0406324bfad83174e1e9e2830ecaa50e86b1d4d5c65fc2c6a55ef43768e7964",
+  "size": 102479867,
   "mandatory": false,
   "notes": [
-    "Yeni güncelleme sistemi hazırlandı.",
-    "Güncelleme motoru geliştiriliyor.",
-    "Performans ve kararlılık iyileştirmeleri yapıldı."
+    "Güncelleme sistemi yenilendi.",
+    "GitHub Releases üzerinden güncelleme desteği eklendi.",
+    "Uygulama içinden güncelleme indirme geliştirildi.",
+    "Güncelleme sonrası otomatik yeniden başlatma geliştirildi.",
+    "Genel performans ve kararlılık iyileştirmeleri yapıldı."
   ]
 }
